@@ -10,4 +10,5 @@ The Java volatile keyword guarantees visibility of changes to variables across t
 
 
 # References :
-http://tutorials.jenkov.com/java-concurrency/volatile.html
+http://tutorials.jenkov.com/java-concurrency/volatile.html (Very good explanation)
+https://www.youtube.com/watch?v=nhYIEqt-jvY&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=6
